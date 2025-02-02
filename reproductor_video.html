@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carles Aguiló Lainé - Práctica Video Accesible</title>
+    <!-- Dependencies -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <!-- <script src="thirdparty/js.cookie.js"></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js" ></script>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="build/ableplayer.min.css" type="text/css" />
+
+    <!-- JavaScript -->
+    <script src="build/ableplayer.min.js"></script>
+    <style>
+        video {
+            max-width: 100%;
+            height: auto;
+            aspect-ratio: 16 / 9;
+            object-fit: cover;
+        }
+    </style>
+</head>
+
+<body>
+    <video id="video1" data-able-player preload="auto" width="1920" height="1080" poster="poster_image.jpg" data-lang="es">
+        <source type="video/webm" src="./carles_aguilo_curriculum.webm" data-desc-src="./carles_aguilo_curriculum_AD.webm" />
+        <!-- <source type="video/mp4" src="https://mega.nz/file/24lSiQ6a#DIbCESfk2Vrqn-Wz7T8Xqwtsp6Q9Jfp9TxeczM1_IrA" data-desc-src="carles_aguilo_curriculum_AD.mp4" /> -->
+        <track kind="subtitles" src="carles_aguilo_curriculum.vtt" srclang="es"/>
+    </video>
+</body>
+
+</html>
