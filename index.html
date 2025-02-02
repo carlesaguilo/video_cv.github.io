@@ -22,13 +22,20 @@
             aspect-ratio: 16 / 9;
             object-fit: cover;
         }
+        /* Specific caption at top-right */
+        video::cue(p:nth-of-type(3)) {
+        top: 10px;
+        right: 10px;
+        left: auto;
+        text-align: right;
+        }
     </style>
 </head>
 
 <body>
     <video id="video1" data-able-player preload="auto" width="1920" height="1080" poster="poster_image.jpg" data-lang="es">
         <source type="video/webm" src="carles_aguilo_curriculum.webm" data-desc-src="carles_aguilo_curriculum_AD.webm" />
-        <!-- <source type="video/mp4" src="https://mega.nz/file/24lSiQ6a#DIbCESfk2Vrqn-Wz7T8Xqwtsp6Q9Jfp9TxeczM1_IrA" data-desc-src="carles_aguilo_curriculum_AD.mp4" /> -->
+        <source type="video/mp4" src="carles_aguilo_curriculum.mp4" data-desc-src="carles_aguilo_curriculum_AD.mp4" />
         <track kind="subtitles" src="carles_aguilo_curriculum.vtt" srclang="es"/>
     </video>
 </body>

@@ -1,0 +1,99 @@
+﻿1
+00:00:04,671 --> 00:00:06,670
+{\an9}<font color="#0000ff">(Aguja sobre vinilo)</font>
+
+2
+00:00:06,695 --> 00:00:12,685
+<font color="#ffff00">Hola, soy Carles Aguiló
+y este es mi Currículum</font>
+
+3
+00:00:12,709 --> 00:00:14,709
+{\an9}<font color="#0000ff">(Música)</font>
+
+4
+00:00:22,067 --> 00:00:24,068
+<font color="#ffff00">Datos personales</font>
+
+5
+00:00:31,359 --> 00:00:33,078
+<font color="#ffff00">Este soy yo</font>
+
+6
+00:00:33,102 --> 00:00:37,005
+<font color="#ffff00">Nací en Reus en agosto de 1972</font>
+
+7
+00:00:37,029 --> 00:00:39,203
+<font color="#ffff00">Tengo 52 años</font>
+
+8
+00:00:50,979 --> 00:00:53,823
+<font color="#ffff00">Formación académica</font>
+
+9
+00:01:03,000 --> 00:01:07,062
+<font color="#ffff00">Soy Licenciado en
+Comunicación Audiovisual</font>
+
+10
+00:01:07,159 --> 00:01:09,575
+<font color="#ffff00">por la Universitat de Lleida</font>
+
+11
+00:01:14,107 --> 00:01:18,792
+<font color="#ffff00">También soy Ingeniero Técnico
+en Informática de Gestión</font>
+
+12
+00:01:18,816 --> 00:01:20,816
+<font color="#ffff00">por la misma universidad</font>
+
+13
+00:01:29,069 --> 00:01:31,240
+<font color="#ffff00">Experiencia profesional</font>
+
+14
+00:01:34,961 --> 00:01:39,552
+<font color="#ffff00">Realizador en Lleida Televisión
+desde 2006 hasta 2008</font>
+
+15
+00:01:47,937 --> 00:01:51,792
+<font color="#ffff00">Diseño User eXperience
+y desarrollo frontend</font>
+
+16
+00:01:51,816 --> 00:01:53,816
+<font color="#ffff00">en ecityclic desde 2016</font>
+
+17
+00:02:00,363 --> 00:02:04,405
+<font color="#ffff00">He trabajado como freelance
+entre 2008 y 2016</font>
+
+18
+00:02:05,288 --> 00:02:07,288
+<font color="#ffff00">Proyectos destacados</font>
+
+19
+00:02:18,561 --> 00:02:21,650
+<font color="#ffff00">Sitio web del Ayuntamiento de Lleida</font>
+
+20
+00:02:28,879 --> 00:02:32,277
+<font color="#ffff00">El sitio web del Ayuntamiento de Mataró</font>
+
+21
+00:02:44,931 --> 00:02:46,376
+<font color="#ffff00">Idiomas</font>
+
+22
+00:02:48,587 --> 00:02:52,259
+<font color="#ffff00">Hablo catalán, español,
+francés e inglés</font>
+
+23
+00:02:53,861 --> 00:02:56,243
+<font color="#ffff00">Gracias por su atención</font>
+
