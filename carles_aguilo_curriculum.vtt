@@ -1,0 +1,78 @@
+﻿WEBVTT
+
+STYLE
+::cue(.0000ffff) { color:rgb(0,0,255) }
+::cue(.ffff00ff) { color:rgb(255,255,0) }
+
+00:00:04.671 --> 00:00:06.671 
+<c.0000ffff>(Aguja sobre vinilo)</c>
+
+00:00:07.695 --> 00:00:13.685
+<c.ffff00ff>Hola, soy Carles Aguiló
+y este es mi Currículum</c>
+
+00:00:22.067 --> 00:00:24.068
+<c.ffff00ff>Datos personales</c>
+
+00:00:31.359 --> 00:00:33.078
+<c.ffff00ff>Este soy yo</c>
+
+00:00:33.102 --> 00:00:37.005
+<c.ffff00ff>Nací en Reus en agosto de 1972</c>
+
+00:00:37.029 --> 00:00:39.203
+Tengo 52 años
+
+00:00:50.979 --> 00:00:53.823
+<c.ffff00ff>Formación académica</c>
+
+00:01:03.000 --> 00:01:07.062
+<c.ffff00ff>Soy Licenciado en
+Comunicación Audiovisual</c>
+
+00:01:07.159 --> 00:01:09.575
+<c.ffff00ff>por la Universitat de Lleida</c>
+
+00:01:14.107 --> 00:01:18.792
+<c.ffff00ff>También soy Ingeniero Técnico
+en Informática de Gestión</c>
+
+00:01:18.816 --> 00:01:20.816
+<c.ffff00ff>por la misma universidad</c>
+
+00:01:29.069 --> 00:01:31.240
+<c.ffff00ff>Experiencia profesional</c>
+
+00:01:34.961 --> 00:01:39.552
+<c.ffff00ff>Realizador en Lleida Televisión
+desde 2006 hasta 2008</c>
+
+00:01:47.937 --> 00:01:51.792
+<c.ffff00ff>Diseño User eXperience
+y desarrollo frontend</c>
+
+00:01:51.816 --> 00:01:53.816
+<c.ffff00ff>en ecityclic desde 2016</c>
+
+00:02:00.363 --> 00:02:04.405
+<c.ffff00ff>He trabajado como freelance
+entre 2008 y 2016</c>
+
+00:02:05.288 --> 00:02:07.288
+<c.ffff00ff>Proyectos destacados</c>
+
+00:02:18.561 --> 00:02:21.650
+<c.ffff00ff>Sitio web del Ayuntamiento de Lleida</c>
+
+00:02:28.879 --> 00:02:32.277
+<c.ffff00ff>El sitio web del Ayuntamiento de Mataró</c>
+
+00:02:44.931 --> 00:02:46.376
+<c.ffff00ff>Idiomas</c>
+
+00:02:48.587 --> 00:02:52.259
+<c.ffff00ff>Hablo catalán, español,
+francés e inglés</c>
+
+00:02:53.861 --> 00:02:56.243
+<c.ffff00ff>Gracias por su atención</c>
