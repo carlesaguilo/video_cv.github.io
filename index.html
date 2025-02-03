@@ -16,6 +16,9 @@
     <!-- JavaScript -->
     <script src="build/ableplayer.min.js"></script>
     <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
         video {
             max-width: 100%;
             height: auto;
@@ -33,10 +36,11 @@
 </head>
 
 <body>
-    <video id="video1" data-able-player preload="auto" width="854" height="480" poster="poster_image.jpg" data-lang="es">
+    <h1>Práctica Video Accesible</h1> 
+    <video id="video-practica-tfm" data-able-player preload="auto" width="854" height="480" poster="poster_image.jpg" data-lang="es">
         <source type="video/webm" src="https://github.com/carlesaguilo/video_cv.github.io/raw/refs/heads/master/videos/carles_aguilo_curriculum.webm" data-desc-src="https://github.com/carlesaguilo/video_cv.github.io/raw/refs/heads/master/videos/carles_aguilo_curriculum_AD.webm" />
         <source type="video/mp4" src="https://github.com/carlesaguilo/video_cv.github.io/raw/refs/heads/master/videos/carles_aguilo_curriculum.mp4" data-desc-src="https://github.com/carlesaguilo/video_cv.github.io/raw/refs/heads/master/videos/carles_aguilo_curriculum_AD.mp4" />
-        <track kind="captions" src="videos/carles_aguilo_curriculum.vtt" srclang="es" label="Español" />
+        <track kind="captions" src="videos/carles_aguilo_curriculum.vtt" srclang="es" label="Español" default />
     </video>
 </body>
 
