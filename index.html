@@ -27,7 +27,7 @@
         body .able-wrapper {
             margin-left: auto;
             margin-right: auto;
-        }
+            }
 
         video {
             max-width: 100%;
@@ -43,17 +43,22 @@
 <body>
     <h1>Práctica Video Accesible</h1> 
     <h2>Video con AblePlayer</h2>
-   
+    <video id="video-practica-tfm" data-able-player preload="auto" width="854" height="480" poster="poster_image.jpg" data-lang="es">
+        <source type="video/mp4" src="https://github.com/carlesaguilo/video_cv.github.io/raw/refs/heads/master/videos/carles_aguilo_curriculum.mp4" data-desc-src="https://github.com/carlesaguilo/video_cv.github.io/raw/refs/heads/master/videos/carles_aguilo_curriculum_AD.mp4" />
+        <source type="video/webm" src="https://github.com/carlesaguilo/video_cv.github.io/raw/refs/heads/master/videos/carles_aguilo_curriculum.webm" data-desc-src="https://github.com/carlesaguilo/video_cv.github.io/raw/refs/heads/master/videos/carles_aguilo_curriculum_AD.webm" />
+        <track kind="captions" src="videos/carles_aguilo_curriculum.vtt" srclang="es" label="Español" default />
+        <p>Su navegador no da soporte a la etiqueta video</p>
+    </video>
     <h2>Videos en HTML &quot;puro&quot;</h2>
     <h3>Video base</h3>
-    <video src="" preload="auto" width="854" height="480" controls>
-        <source type="video/mp4" src="https://github.com/carlesaguilo/video_cv.github.io/raw/refs/heads/master/videos/carles_aguilo_curriculum.mp4"  />
-        <source type="video/webm" src="https://github.com/carlesaguilo/video_cv.github.io/raw/refs/heads/master/videos/carles_aguilo_curriculum.webm"  />
+    <video preload="auto" width="854" height="480" controls>
+        <source src="https://github.com/carlesaguilo/video_cv.github.io/raw/refs/heads/master/videos/carles_aguilo_curriculum.mp4"  type="video/mp4"  />
+        <source src="https://github.com/carlesaguilo/video_cv.github.io/raw/refs/heads/master/videos/carles_aguilo_curriculum.webm" type="video/webm"  />
         <track kind="captions" src="videos/carles_aguilo_curriculum.vtt" srclang="es" label="Español" default />
         <p>Su navegador no da soporte a la etiqueta video</p>
     </video>
     <h3>Audiodescripci&oacute;n</h3>
-    <video src="" preload="auto" width="854" height="480" controls>
+    <video preload="auto" width="854" height="480" controls>
         <source type="video/mp4" src="https://github.com/carlesaguilo/video_cv.github.io/raw/refs/heads/master/videos/carles_aguilo_curriculum_AD.mp4"  />
         <source type="video/webm" src="https://github.com/carlesaguilo/video_cv.github.io/raw/refs/heads/master/videos/carles_aguilo_curriculum_AD.webm"  />
         <p>Su navegador no da soporte a la etiqueta video</p>
